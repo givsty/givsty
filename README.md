@@ -1,11 +1,10 @@
 ## Hi there 👋
 
 ## 🚀 About Me
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full-Stack+dev)](https://git.io/typing-svg)
-SRE Engineer
+[![Typing SVG](https://jay-website-personal-65b76d6e8318.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Web+Developer;SRE+Engineer)](https://git.io/typing-svg)
 
 ## 🛠 Skills
-JavaScript, HTML, CSS, TypeScript, React, Git, Grafana, Jira, Confluence
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,scss,jira,confluence,grafana)](https://skillicons.dev)
 
 ## 📈GitHub Stats
 
