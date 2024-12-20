@@ -4,7 +4,7 @@
 ## 🚀 About Me
 🖖🏻 **My name is Igor. I'm a web developer, trying different new technologies in my projects.**
 
-👌🏻**I have development experience in front-end.**
+👌🏻**I am currently studying for a master's degree in information systems and technology, where I gain main experience in web development.**
 
 ## 🛠 Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,scss,grafana)](https://skillicons.dev)
